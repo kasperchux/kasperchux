@@ -2,7 +2,7 @@
 
 # My name is Danila
 
-## Machine Learning Engineer
+## MLE
 
 * 🌍  I'm based in Belarus
 * ✉️  You can contact me at [ksprchk@gmail.com](mailto:ksprchk@gmail.com)
